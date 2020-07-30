@@ -39,7 +39,7 @@
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5"
+    "request-promise" : "git+https://github.com/kentaro-mukunashi/request-promise.git#master"
   },
   "devDependencies": {
     "@types/node": "^12.12.11",
